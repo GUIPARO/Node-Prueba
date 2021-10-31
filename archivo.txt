@@ -3,3 +3,5 @@ Hola mi nombre es Guisella Patron y estoy aprendiendo git
 Estoy estudiando en platzy
 
 Para ser una mejor developer fullstack
+
+Hablaremos de su vida
