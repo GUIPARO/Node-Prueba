@@ -1,7 +1,6 @@
 body{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color:deeppink;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -11,10 +10,22 @@ body{
     padding: 10px;
 }
 
-.container h1{
-    font-size: 18px;
+.container .cabecera{
+    font-size: 22px;
+    background-color: blue;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    align-items: center;
+    padding: 10px;
 }
 
-.container p{
-    color: black;
+.cabecera .tagline{
+    font-size: 18px;
+    padding: 0 0 0 1em;
+}
+
+.container h1{
+    font-size: 18px;
 }
