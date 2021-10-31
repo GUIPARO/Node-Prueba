@@ -29,3 +29,13 @@ body{
 .container h1{
     font-size: 18px;
 }
+
+.footer{
+    background-color: grey;
+    color: black;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid black;
+}
